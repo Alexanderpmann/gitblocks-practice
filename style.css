@@ -30,6 +30,8 @@ h1 {
     background-color: green;
     border-bottom: 10px solid darkgreen;
     align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
 .row3 {
